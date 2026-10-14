@@ -13,4 +13,4 @@
 2. Вводим число а
 3. определяем, что вывести
 4. выводим название цифры.
-<img width="960" height="2048" alt="image" src="https://github.com/user-attachments/assets/812f5b30-4a27-41ed-a63d-9faa1a9130b9" />
+<img width="176" height="474" alt="image" src="https://github.com/user-attachments/assets/812f5b30-4a27-41ed-a63d-9faa1a9130b9" />
